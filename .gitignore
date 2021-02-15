@@ -1,0 +1,5 @@
+vendor
+*.gz
+bin
+mock_*.go
+.build
